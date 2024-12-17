@@ -1,4 +1,4 @@
-# 📋 **TodoList Projekt README**
+# 📋 **TodoList**
 
 <div align="center">  
 
